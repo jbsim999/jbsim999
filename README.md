@@ -3,7 +3,8 @@
 <h3>Stack</h3>
 <p>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=orange"/></a>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=orange"/>&nbsp
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
 </p>
 
 ![Junbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbsim999&show_icons=true&theme=radical)
