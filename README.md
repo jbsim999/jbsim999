@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Junbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbsim999&show_icons=true&theme=radical)
+
 <!--
 **jbsim999/jbsim999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
